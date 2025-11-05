@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 
-const API_BASE_URL = 'http://api-maintenance.tech-east.com.pk';
+const API_BASE_URL = 'https://api-maintenance.tech-east.com.pk';
 
 
 const api = axios.create({
